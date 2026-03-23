@@ -27,7 +27,7 @@ Quant trader & Python developer in progress 🚀
 
 | Project | Description | Status |
 |---|---|---|
-| [Stock Analyser](./Stock_Analyser) | Terminal-based portfolio P&L calculator for NSE stocks | ✅ Live |
+| [Stock Analyser](https://github.com/QuantShivam/Stock_Analyser) | Terminal-based portfolio P&L calculator for NSE stocks | ✅ Live |
 
 > More projects coming as I progress through my learning roadmap.
 
