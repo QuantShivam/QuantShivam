@@ -28,6 +28,7 @@ Quant trader & Python developer in progress 🚀
 | Project | Description | Status |
 |---|---|---|
 | [Stock Analyser](https://github.com/QuantShivam/Stock_Analyser) | Terminal-based portfolio P&L calculator for NSE stocks | ✅ Live |
+| [NSE Quant Maths Toolkit](https://github.com/QuantShivam/NSE_Quant_Maths_Toolkit) | 11 quant math topics built with NumPy | ✅ Live |
 
 > More projects coming as I progress through my learning roadmap.
 
@@ -35,7 +36,7 @@ Quant trader & Python developer in progress 🚀
 
 ## 📍 Currently
 
-- 📘 Learning: Python Core Programming (Module 1)
+- 📘 📘 Learning: Data Handling with Python (Module 3)
 - 🎯 Goal: ₹1,00,000/month freelance income by Dec 2026
 - 📌 Location: Delhi, India
 
