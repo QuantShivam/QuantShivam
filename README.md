@@ -29,6 +29,7 @@ Quant trader & Python developer in progress 🚀
 |---|---|---|
 | [Stock Analyser](https://github.com/QuantShivam/Stock_Analyser) | Terminal-based portfolio P&L calculator for NSE stocks | ✅ Live |
 | [NSE Quant Maths Toolkit](https://github.com/QuantShivam/NSE_Quant_Maths_Toolkit) | 11 quant math topics built with NumPy | ✅ Live |
+| [NSE Data Toolkit](https://github.com/QuantShivam/NSE_Data_Toolkit) | Live NSE data analysis & report generator | ✅ Live |
 
 > More projects coming as I progress through my learning roadmap.
 
